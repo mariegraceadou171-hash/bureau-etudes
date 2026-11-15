@@ -1,1 +1,1 @@
-"""Éléments de la structure (poteaux, semelles)."""
+"""Génération du devis."""
